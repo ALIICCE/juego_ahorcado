@@ -1,8 +1,7 @@
 # juego_ahorcado
 
-# Juego del Ahorcado en Python
+## Juego del Ahorcado en Python
 
-Juego del Ahorcado hecho en Python.
 ---
 
 ## Requisitos
